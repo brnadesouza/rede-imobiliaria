@@ -1,4 +1,4 @@
-# catalogo-academia 
+# rede-imobiliaria
 ### **Autor:** Bruna de Souza
 Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web inspirada em catálogo de roupa de academia.
 
